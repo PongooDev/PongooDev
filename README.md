@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @ObsessedTech a small app maker dont really do that tho um yeah lol
-- 👀 I’m interested in computing
-- 🌱 I’m currently learning well its more what i want to learn a bit more and thats obviosly computing
-- 💞️ I dont collab yet might think about it in the future
--
+my github stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiendlessalpacaYT=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 endlessalpacaYT/endlessalpacaYT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
