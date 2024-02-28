@@ -2,9 +2,7 @@ Faily New Backend Developer
 
 Javascript + Python
 
-Some C++ 
-
-Created Origin OGFN Project
+Learning Windows Modding
 
 <!---
 endlessalpacaYT/endlessalpacaYT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
