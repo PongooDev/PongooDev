@@ -1,10 +1,8 @@
-Faily New Backend Developer
+Owner Of FluxoSoft
+![FluxoSoft Background Image](https://github.com/FluxoSoft/.github/blob/main/src/FluxoSoftBanner.png)
+C# .NET Developer
 
-Javascript + Python
 
-Learning Windows Modding
-
-Bad At Coding!!!
 
 <!---
 endlessalpacaYT/endlessalpacaYT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
