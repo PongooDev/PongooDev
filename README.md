@@ -1,11 +1,9 @@
 <div align="center">
 <h1>PongoDev</h1>
 <br>
-C# .NET Developer
+<h1>Backend Developer</h1>
 <br>
-Fullstack Developer
-<br>
-<h1>My Github Stats!</h1>
+<h2>My Github Stats!</h2>
 <img src="https://komarev.com/ghpvc/?username=endlessapacaYT&color=blue">
 <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=endlessalpacaYT&show_icons=true&locale=en&theme=dark" alt="endlessalpacaYT" />
