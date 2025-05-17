@@ -6,8 +6,8 @@
 <h2>My Github Stats!</h2>
 <img src="https://komarev.com/ghpvc/?username=endlessapacaYT&color=blue">
 <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=endlessalpacaYT&show_icons=true&locale=en&theme=dark" alt="endlessalpacaYT" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=endlessalpacaYT&layout=donut&theme=dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=PongooDev&show_icons=true&locale=en&theme=dark" alt="PongooDev" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PongooDev&layout=donut&theme=dark" />
 </div>
 
 
